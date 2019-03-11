@@ -39,3 +39,6 @@ if __name__ == "__main__":
     target = 6
 
     assert (Solution().twoSum(nums, target) == [1, 2])
+
+
+
